@@ -1,0 +1,19 @@
+{
+"requestId": "1234567890",
+"telA": "13900000000",
+"telB": "13005711234",
+"telX": "13005711234",
+"subts": "20190420190126",
+"areacode": "10",
+
+"expiration": "10",
+"remark": "1234abcd",
+
+"extra": {
+"callrecording": "1" ,
+"unbinding": "0",
+"callstart": "0",
+"callringing": "0"
+}
+
+}

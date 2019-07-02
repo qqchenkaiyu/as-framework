@@ -1,0 +1,9 @@
+{
+"v": "V2",
+"method": "${method}",
+"vendor_access_key": "ALI",
+"timestamp": "20180403141512123",
+"request_id": "17826821864",
+"sign": "3ms",
+"request_body": "{'callNo':'17826828163','calledNo':'17826828165','secretNo':'17826828164','callType':'${callType}','callId':'17826821864','requestId':'17826821864','vendorKey':'ALI','v':'V2','sign':'544544246','callTime':'199601063616','startTime':'199601063616','ringTime':'199601063616','callOutTime':'199601063616','releaseTime':'199601063616','releaseDir':'1','releaseCause':'32','subsId':'32','freeRingTime':'32'}"
+}

@@ -1,0 +1,9 @@
+{
+"v": "V2",
+"method": "${method}",
+"vendor_access_key": "ALI",
+"timestamp": "20180403141512123",
+"request_id": "17826821864",
+"sign": "3ms",
+"request_body": "{'callNo':'17826828165','secretNo':'17826828164','recordType':'${recordType}','callId':'17826821864','requestId':'17826821864','vendorKey':'ALI','v':'V2','sign':'544544246','callTime':'199601063616'}"
+}
